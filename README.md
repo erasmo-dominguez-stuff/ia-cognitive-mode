@@ -1,6 +1,6 @@
 # 🧠 Cognitive Mode Setup
 
-This repository contains configuration files to enable **Cognitive Mode** across different AI assistant platforms: ChatGPT, Ollama, and LM Studio.
+This repository contains configuration files to enable **Cognitive Mode** across different AI assistant platforms: ChatGPT, Ollama (just these two for now, because are the ones Im ussing)
 
 ## 🎯 Purpose
 
