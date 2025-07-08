@@ -33,6 +33,10 @@ To ensure that every interaction with an AI assistant helps strengthen your cogn
   ```bash
    run_ollama_cognitive.sh
    ```
+3. After running you should be able to check if its works 
+   
+      
+![Cognitive Mode working in Ollama](./assets/ollama.png)
 
 > 📌 **Warning:** Ollama may not consistently apply your custom instructions across all sessions.  
 > For better control and reliability, it is strongly recommended that you **manually paste your Cognitive Mode rules at the start of each chat**.
