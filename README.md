@@ -20,21 +20,13 @@ To ensure that every interaction with an AI assistant helps strengthen your cogn
 
 ### 🧠 Ollama
 
-1. Install Ollama if not already:
-   ```bash
-   brew install ollama
-   ```
-2. Navigate to the `ollama/` folder:
+1. Navigate to the `ollama/` folder:
    ```bash
    cd ollama
    ```
-3. Build the model:
-   ```bash
-   ollama create cognitive-llama -f Modelfile
-   ```
-4. Run it:
-   ```bash
-   ollama run cognitive-llama
+2. Build and run ollama with the model: 
+  ```bash
+   run_ollama_cognitive.sh
    ```
 ---
 
