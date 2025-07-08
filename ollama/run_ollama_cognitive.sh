@@ -4,7 +4,7 @@
 set -e
 
 MODEL_NAME="cognitive-llama"
-RULES_FILE="./rules.md"
+RULES_FILE="../rules.md"
 OUTPUT_FILE="Modelfile"
 
 echo "🔁 Generating Modelfile with cognitive rules and code modifier..."
