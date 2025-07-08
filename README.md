@@ -12,11 +12,13 @@ To ensure that every interaction with an AI assistant helps strengthen your cogn
 
 ### 🧠 ChatGPT (OpenAI)
 
-1. Open ChatGPT.
+1. Open ChatGPT (https://chat.openai.com).
 2. Go to `Settings` → `Personalization` → `Custom Instructions`.
-3. Copy the content of `chatgpt/rules.md`.
-4. Paste it into:
-   - **“How would you like ChatGPT to respond?”** section.
+3. Paste the contents of `chatgpt/rules.md` into the **“How would you like ChatGPT to respond?”** field.
+4. Click **Save** and ensure **“Enable for new chats”** is turned on.
+
+> 📌 **Warning:** ChatGPT may not consistently apply your custom instructions across all sessions.  
+> For better control and reliability, it is strongly recommended that you **manually paste your Cognitive Mode rules at the start of each chat**.
 
 ### 🧠 Ollama
 
