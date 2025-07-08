@@ -21,6 +21,7 @@ To ensure that every interaction with an AI assistant helps strengthen your cogn
 
 > 📌 **Warning:** ChatGPT may not consistently apply your custom instructions across all sessions.  
 > For better control and reliability, it is strongly recommended that you **manually paste your Cognitive Mode rules at the start of each chat**.
+> For ChatGPT we have a different rules.md just because it is limited to 1500 characters
 
 ### 🧠 Ollama
 
